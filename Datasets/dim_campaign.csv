@@ -1,0 +1,11 @@
+campaign_id,campaign_name,campaign_type,target_audience,budget
+1,Summer Sale,Discount,All Customers,10000
+2,Back to School,Seasonal,Students,8000
+3,New Product Launch,Awareness,Tech Enthusiasts,12000
+4,Holiday Deals,Seasonal,All Customers,15000
+5,Email Loyalty,Retention,Existing Customers,4000
+6,Flash Sale,Discount,All Customers,7000
+7,Black Friday,Seasonal,All Customers,20000
+8,Referral Program,Growth,New Users,5000
+9,Weekend Promo,Discount,Young Adults,6000
+10,Premium Upgrade,Upsell,Premium Users,9000
